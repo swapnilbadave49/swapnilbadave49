@@ -5,6 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-this is new line added
+-this is the second line 
+-and thats it 
+
+
 
 <!---
 swapnilbadave49/swapnilbadave49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
