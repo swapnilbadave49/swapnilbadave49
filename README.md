@@ -61,19 +61,6 @@
 
 ---
 
-### 💡 Projects & Hackathon Contributions:
-- 🔹 **[Decentralized Voting System](#)** - Blockchain-based voting system ensuring security & transparency.
-- 🔹 **[AI-Based Phishing Detection](#)** - Browser extension using ML for phishing site detection.
-- 🔹 **[Secure File Sharing Using Blockchain](#)** - Decentralized cloud storage with end-to-end encryption.
-- 🔹 **[Safe Route System](#)** - Innovative solution for secure navigation (INC Contest).
-
----
-
-### 🎵 Spotify Now Playing:
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" width="400">
-</p>
-
 ---
 
 ### 📈 GitHub Activity Graph:
