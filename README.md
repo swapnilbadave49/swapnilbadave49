@@ -2,7 +2,7 @@
 <h3 align="center">🚀 I.T. Engineering Student at PICT Pune | Passionate Coder & Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21B6F4&width=650&lines=Full-Stack+Developer+%7C+Competitive+Programmer;MERN+Stack+%7C+Problem+Solving;Mathematics+%7C+Cybersecurity+Enthusiast;Levelling+Up+Everyday+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21B6F4&width=650&lines=Full-Stack+Developer+%7C+Competitive+Programmer;MERN+Stack+%7C+Problem+Solving;Mathematics+%7C+AI+Enthusiast;Levelling+Up+Everyday+🚀" alt="Typing SVG" />
 </p>
 ---
 
