@@ -9,10 +9,9 @@
 ---
 
 ### 🚀 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=https://linkedin.com/in/yourprofile)](www.linkedin.com/in/swapnilbadave922003)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/swapnilbadave49)](https://github.com/swapnilbadave49)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourprofile)](https://twitter.com/yourprofile)
-
 ---
 
 ### 🛠 Languages and Tools:
