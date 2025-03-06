@@ -17,13 +17,20 @@
 - 🎯 Passionate about **Problem-Solving, Web Security & Scalable Applications**
 - 💬 Ask me about **MERN Stack, DSA, Problem Solving, and Web Development**
 - 📫 Reach me at **swapnilbadave007@gmail.com**
-- ⚡ Fun Fact: **I love debugging more than coding! 😆**
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,spring,python,cpp,git,linux" />
+</p>
+
+---
+
+### 🔥 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbadave49&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbadave49&layout=compact&theme=tokyonight" width="350"/>
 </p>
 
 ---
@@ -36,35 +43,6 @@
   <a href="https://github.com/swapnilbadave49" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
-
----
-
-### 🔥 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbadave49&show_icons=true&theme=tokyonight" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbadave49&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swapnilbadave49&theme=onedark&no-frame=true&margin-w=10" width="700"/>
-</p>
-
----
-
-### 📈 GitHub Activity Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilbadave49&theme=react-dark&hide_border=true" width="800"/>
-</p>
-
----
-
-### 📊 Top Used Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbadave49&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
 ---
