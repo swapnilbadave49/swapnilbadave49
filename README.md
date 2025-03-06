@@ -8,11 +8,10 @@
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **MERN Stack Projects & Competitive Programming**
-- 🌱 Learning **Cybersecurity, Blockchain, AI, and System Design**
+- 🌱 Learning **Java,Spring, AI, and System Design**
 - 🎯 Passionate about **Problem-Solving, Web Security & Scalable Applications**
-- 💬 Ask me about **MERN Stack, DSA, Hackathons, and Web Development**
-- 🎯 **Goal for 2025:** Build scalable blockchain & AI-based security solutions!  
-- 📫 Reach me at **swapnilbadave49@example.com**
+- 💬 Ask me about **MERN Stack, DSA, Problem Solving, and Web Development**
+- 📫 Reach me at **swapnilbadave007@gmail.com**
 - ⚡ Fun Fact: **I love debugging more than coding! 😆**
 
 ---
