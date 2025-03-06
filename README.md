@@ -4,11 +4,16 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21B6F4&width=650&lines=Full-Stack+Developer+%7C+Competitive+Programmer;MERN+Stack+%7C+Problem+Solving;Mathematics+%7C+AI+Enthusiast;Levelling+Up+Everyday+🚀" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Competitive Programming GIF">
+</p>
+
 ---
 
 ### 🚀 About Me:
 - 🔭 I’m currently working on **MERN Stack Projects & Competitive Programming**
-- 🌱 Learning **Java,Spring, AI, and System Design**
+- 🌱 Learning **Java, Spring, AI, and System Design**
 - 🎯 Passionate about **Problem-Solving, Web Security & Scalable Applications**
 - 💬 Ask me about **MERN Stack, DSA, Problem Solving, and Web Development**
 - 📫 Reach me at **swapnilbadave007@gmail.com**
@@ -17,40 +22,28 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,java,spring,python,cpp,git,linux" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/swapnil-badave-7b538925a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/swapnilbadave49" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
 </p>
-
 
 ---
 
 ### 🔥 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbadave49&show_icons=true&theme=dark" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbadave49&theme=dark&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=swapnilbadave49&show_icons=true&theme=tokyonight" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swapnilbadave49&theme=tokyonight&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -62,18 +55,16 @@
 
 ---
 
----
-
 ### 📈 GitHub Activity Graph:
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=swapnilbadave49&theme=react-dark&hide_border=true" width="800"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnilbadave49&theme=react-dark&hide_border=true" width="800"/>
 </p>
 
 ---
 
 ### 📊 Top Used Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbadave49&layout=compact&theme=dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilbadave49&layout=compact&theme=tokyonight" width="400"/>
 </p>
 
 ---
